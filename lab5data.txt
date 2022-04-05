@@ -1,0 +1,13 @@
+      Pallet     PAG     PAG45982IB  737   4978   OAK
+      Container  AYF     AYF23409AA  767   2209   LAS
+      Container  APE     APE89023DL  767   5932   DFW
+      Pallet     P1P     P1P77889UA  767   8091   BOI
+      Pallet     PAG     PAG88779DL  737   1598   SAC
+      Container  AAA     AAA45658IB  717   6232   SEA
+      Container  AKE     AKE66237DL  767   9872   PDX
+      Pallet     PLA     PLA32144AA  737  18234   LAS
+      Pallet     PLA     PLA55689AA  737  20432   LAS
+      Pallet     PLA     PLA99821AA  737  11258   LAS
+      Container  AQF     AQF66231LU  767  15698   ORD
+      
+
